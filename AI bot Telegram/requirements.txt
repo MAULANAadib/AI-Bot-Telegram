@@ -1,0 +1,5 @@
+# install modul terlebih dulu dari open ai dan telebot dan modul lainnya yang diperlukan
+# atau copas bawah aja "pip install -r requirements.txt"
+
+openai==0.25.0
+pyTelegramBotAPI==4.8.0
